@@ -72,8 +72,7 @@ I'm **@LanKuzuMK**, a passionate developer focused on building high-impact softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LanKuzuMK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FF8C00&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanKuzuMK&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9" alt="Top Languages" />
+
 </p>
 
 <p align="center">
@@ -81,7 +80,6 @@ I'm **@LanKuzuMK**, a passionate developer focused on building high-impact softw
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LanKuzuMK&theme=gruvbox&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 <br />
