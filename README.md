@@ -116,7 +116,7 @@ I'm open to collaborating on mobile app, web, and game development projects and 
 
 <br />
 
-## ✨ My Websites and Web Applications
+## ✨ My Websites and Web Applications (Contact for details)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/mk.gif" width="100%" alt="Xiao Yan Flame GIF" />
