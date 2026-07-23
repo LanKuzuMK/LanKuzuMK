@@ -14,7 +14,7 @@
     <a href="https://t.me/Honkai_arikathana" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://github.com/jaxk168" target="_blank">
+    <a href="https://github.com/LanKuzuMK" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -48,7 +48,7 @@ I'm open to collaborating on **mobile app projects** and other exciting tech ven
 - 🎥 **YouTube:** [@jackmp3fx](https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn)
 - 👤 **Facebook:** [Jaxk Profile](https://www.facebook.com/share/165PRpanWb/)
 - 💬 **Telegram:** [@Honkai_arikathana](https://t.me/Honkai_arikathana)
-- 🐙 **GitHub:** [jaxk168](https://github.com/jaxk168)
+- 🐙 **GitHub:** [LanKuzuMK](https://github.com/LanKuzuMK)
 - 📦 **Download:** [📱 My First Mobile Application](https://drive.google.com/file/d/1iZ2auLwjii-Xx6qsM7pjB4lRCV5AUq62/view?usp=drivesdk)
 
 ---
@@ -61,4 +61,6 @@ I'm open to collaborating on **mobile app projects** and other exciting tech ven
 
 ### ✨ My Websites and Web Applications
 
-![My GIF](https://raw.githubusercontent.com/jaxk168/jaxk168/main/mk.GIF)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/mk.gif" width="100%" alt="Xiao Yan Flame GIF" />
+</p>
