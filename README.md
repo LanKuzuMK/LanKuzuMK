@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **@Jaxk168**, a passionate developer focused on building high-impact software. I strive to create efficient, scalable, and user-friendly applications across web and mobile platforms.
+I'm **@LanKuzuMK**, a passionate developer focused on building high-impact software. I strive to create efficient, scalable, and user-friendly applications across web and mobile platforms.
 
 ---
 
