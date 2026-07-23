@@ -61,4 +61,4 @@ I'm open to collaborating on **mobile app projects** and other exciting tech ven
 
 ### ✨ My Websites and Web Applications
 
-!(https://raw.githubusercontent.com/jaxk168/jaxk168/main/mk.gif)
+![My GIF](https://raw.githubusercontent.com/jaxk168/jaxk168/main/mk.GIF)
