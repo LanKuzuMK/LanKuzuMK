@@ -62,7 +62,6 @@ I'm **@LanKuzuMK**, a passionate developer focused on building high-impact softw
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Android_Studio-1976D2?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
 </div>
