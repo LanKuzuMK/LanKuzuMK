@@ -1,126 +1,58 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+MK+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+3D+Web+Experiences+%26+Games;Turning+Ideas+Into+Production-Ready+Apps" alt="Hi, I'm MK - Full-Stack & Mobile Developer" />
-  
-  <p><strong>Passionate Developer | Crafting efficient, scalable & user-friendly solutions</strong></p>
-  
-  <p>
-    <a href="https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://www.facebook.com/share/165PRpanWb/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://t.me/Honkai_arikathana" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://github.com/LanKuzuMK" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=LanKuzuMK&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+# LanKuzuMK
 
-<br />
+## Developer and Creative Technologist
 
-## 👨‍💻 About Me
+I build software across web, mobile, and interactive media. My work focuses on clear interfaces, reliable implementation, visual polish, and experiments that turn ideas into useful products.
 
-I'm **@LanKuzuMK**, a passionate developer focused on building high-impact software. I strive to create efficient, scalable, and user-friendly applications across web, mobile, and game platforms — from immersive 3D experiences to polished cross-platform apps.
+## Focus areas
 
-<br />
+| Area | Current focus |
+| --- | --- |
+| Web systems | React, TypeScript, Three.js, WebGL, and responsive interface design |
+| Mobile development | Flutter, Android, and Capacitor-based applications |
+| Interactive work | Motion, gesture interfaces, visual experiments, and game systems |
+| Engineering practice | Maintainable code, practical architecture, and production-ready delivery |
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## Technology
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
 
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
-</p>
+JavaScript, TypeScript, Dart, Java, HTML, and CSS.
 
-### Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge" alt="Capacitor" />
-</p>
+### Frameworks and libraries
 
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Android_Studio-1976D2?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-</p>
+React, Three.js, Node.js, WebGL, Flutter, and Capacitor.
 
-</div>
+### Tools
 
-<br />
+Git, Android Studio, Vite, Tailwind CSS, and standard browser development tools.
 
-## 📊 GitHub Stats
+## Selected work
 
-<p align="center">
+- **MK Portfolio** — A bilingual cinematic portfolio for software, creative technology, and interactive systems.
+- **MK Schedule** — A responsive weekly timetable interface with weekday navigation and animated schedule cards.
+- **Skybound Knight** — A responsive fantasy platformer experiment with web and Android support.
+- **Anonymous Encrypted Chat** — A TypeScript communication prototype focused on private messaging concepts.
+- **E-Commerce Inventory Dashboard** — A Java and JSP inventory management project.
 
-</p>
+## Collaboration
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LanKuzuMK&hide_border=true&background=0D1117&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700" alt="GitHub Streak" />
-</p>
+I am open to practical collaborations involving web applications, mobile products, interactive experiences, and game development. The best projects begin with a clear problem, a defined audience, and an implementation plan that can be maintained after launch.
 
-<p align="center">
-</p>
+## Contact and links
 
-<br />
+- [YouTube](https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn)
+- [Facebook](https://www.facebook.com/share/165PRpanWb/)
+- [Telegram](https://t.me/Honkai_arikathana)
+- [GitHub](https://github.com/LanKuzuMK)
+- [Mobile application download](https://drive.google.com/file/d/1iZ2auLwjii-Xx6qsM7pjB4lRCV5AUq62/view)
 
-## 🚀 What I'm Working On
+## Portfolio
 
-- 🎮 **3D Web & Gaming:** Building immersive 3D web experiences and games with Three.js & WebGL.
-- 📱 **Mobile Apps:** Shipping cross-platform mobile apps with Flutter, and packaging web apps to Android with Capacitor.
-- 🖐️ **Computer Vision:** Experimenting with computer vision & gesture-based interfaces.
-- 📚 **Continuous Learning:** Continuously leveling up in Full-Stack Development.
-- ⚡ **Innovation:** Passionate about creating innovative, high-performance applications.
+The complete portfolio and case-study archive are available through the [MK Portfolio repository](https://github.com/LanKuzuMK/mk-pro-portfolio).
 
-<br />
+![MK visual identity](https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/mk.gif)
 
-## 🤝 Collaboration
+## Repository notes
 
-I'm open to collaborating on mobile app, web, and game development projects and other exciting tech ventures! If you have an idea, want to build something together, or need a developer, feel free to connect.
-
-<br />
-
-## 📫 Reach Me & Links
-
-- 🎥 **YouTube:** [@jackmp3fx](https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn)
-- 👤 **Facebook:** [Jaxk Profile](https://www.facebook.com/share/165PRpanWb/)
-- 💬 **Telegram:** [@Honkai_arikathana](https://t.me/Honkai_arikathana)
-- 🐙 **GitHub:** [LanKuzuMK](https://github.com/LanKuzuMK)
-- 📦 **Download:** 📱 [My First Mobile Application](https://drive.google.com/file/d/1iZ2auLwjii-Xx6qsM7pjB4lRCV5AUq62/view)
-
-<br />
-
-## 😄 Fun Fact
-
-> "I hate AI, but not too much." 😉
-
-<br />
-
-## ✨ My Websites and Web Applications (Contact for details)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/mk.gif" width="100%" alt="Xiao Yan Flame GIF" />
-</p>
-
-<div align="center">
-  <sub>⭐ If you like what you see, consider dropping a star on my repos!</sub>
-</div>
+Each project repository contains its own setup instructions, technology notes, and deployment information. Please review the individual README before running a project locally.
