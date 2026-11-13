@@ -108,6 +108,26 @@ I'm open to collaborating on mobile app, web, and game development projects and 
 - 📦 **Download:** 📱 [My First Mobile Application](https://read-me-by-jack.vercel.app)
 - 📦 **Web I build:** [Below]
   - https://lankuzumk.github.io/mk-vault/
+  - https://read-me-by-jack.vercel.app/
+  - https://mini-jack-by-mk-bot.vercel.app/
+  - https://lunara-feminine-care.onrender.com/
+  - https://mkchristmastreelove.vercel.app/
+  - https://student-os-v2.onrender.com/
+  - https://studentos-reference.vercel.app/
+  - https://anonymouse-chat-1.onrender.com/
+  - https://mk-schedule.vercel.app/
+  - https://mk-pro-portfolio.pages.dev/
+  - https://skybound-knight-play.pages.dev/
+  - https://mk-website-five.vercel.app/daily-income-organizer.html
+  - https://khmer-map-by-mk.vercel.app/
+  - https://mk-portfolio-v2-code-cultivator.vercel.app/
+  - https://gesture-on-air.vercel.app/
+  - https://gundam-strike-protocol.vercel.app/
+  - https://grand-mk-nexus.vercel.app/
+  - https://mkfitnessgod.vercel.app/
+  - https://costwebby-mk.vercel.app/
+  - https://jack-portfolio-one.vercel.app/
+    
 
 <br />
 
