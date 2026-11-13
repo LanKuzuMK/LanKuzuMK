@@ -57,23 +57,23 @@ fun_fact: "I hate AI, but not too much." 😉
 <!-- MULTI-PLATFORM ECOSYSTEM -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 📱 Multi-Platform Engineering (iOS · Android · Windows · macOS)
+## 📱 Multi-Platform Engineering (iOS · Android · Windows · macOS · Web)
 
 I build, package, and deploy software across every major consumer and enterprise operating system:
 
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Apple_iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Web-646CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" />
 </p>
 
-<!-- Mobile & Desktop Toolchain Skill Icons -->
+<!-- Mobile & Desktop Toolchain Skill Icons with zero gaps -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=apple,windows,android,flutter,dart,swift,kotlin,electron,tauri&theme=dark" alt="Cross-Platform Toolchain" />
+  <img src="https://skillicons.dev/icons?i=apple,windows,androidstudio,flutter,dart,swift,kotlin,electron,tauri&theme=dark" alt="Cross-Platform Toolchain" />
 </a>
 
 </div>
@@ -82,7 +82,7 @@ I build, package, and deploy software across every major consumer and enterprise
 
 | Target Platform | Runtime & Frameworks | Native Languages | What I Build |
 | :--- | :--- | :--- | :--- |
-| 📱 **iOS** | `Flutter` · `Capacitor` · `React Native` | `Swift` · `Objective-C` | App Store builds, mobile games, utilities, and sensor-driven native integrations. |
+| 📱 **iOS** | `Flutter` · `Capacitor` · `React Native` | `Swift` · `Objective-C` | App Store builds, mobile games, utilities, and native sensor integrations. |
 | 🤖 **Android** | `Flutter` · `Android SDK` · `Capacitor` | `Kotlin` · `Java` | Production APK & AAB releases, foreground services, offline caching, and responsive UIs. |
 | 🪟 **Windows** | `Flutter Desktop` · `Electron` · `Tauri` | `C# / .NET` · `C++` | High-performance Windows desktop tools, utility dashboards, and local executable apps. |
 | 🍏 **macOS** | `Flutter Desktop` · `Electron` · `Tauri` | `Swift` · `Objective-C` | Clean macOS desktop applications adhering to Apple Human Interface Guidelines. |
@@ -98,7 +98,7 @@ I build, package, and deploy software across every major consumer and enterprise
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,threejs,tailwind,vite,java,dart,flutter,swift,kotlin,electron,windows,apple,android,nodejs,mysql,postgres,docker,git,github,vercel,cloudflare,androidstudio,figma&theme=dark&perline=13" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,threejs,tailwind,vite,java,dart,flutter,swift,kotlin,electron,windows,apple,androidstudio,nodejs,mysql,postgres,docker,git,github,vercel,cloudflare,figma,linux&theme=dark&perline=13" alt="Tech Stack" />
 </a>
 
 </div>
@@ -141,60 +141,84 @@ I build, package, and deploy software across every major consumer and enterprise
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- FEATURED FLAGSHIP PROJECTS -->
+<!-- FEATURED FLAGSHIP PROJECTS (BALANCED FULL-WIDTH TRIM) -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ## ⭐ Featured Flagships
 
-<table>
+<table width="100%">
 <tr>
-<td width="55" align="center"><h3>01</h3></td>
-<td width="420">
-  <a href="https://lankuzumk.github.io/mk-vault/"><b>🏛️ MK Vault — Royal Ledger Archive</b></a><br/>
-  <sub><b>TypeScript · React 19 · Tailwind 4 · Vite 7</b></sub><br/><br/>
-  <sub>A curated personal link archive built with the bespoke Royal Ledger visual system — dark ink canvas, burnished brass accents, archival Cinzel typography, monogram seal, automated web screenshots, real-time search & category filtering, and an owner workspace with JSON backup export and restore.</sub><br/><br/>
-  <a href="https://lankuzumk.github.io/mk-vault/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
-  <a href="https://github.com/LanKuzuMK/mk-vault"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square" alt="Active"/>
+<td width="60" align="center" valign="top">
+  <h2>01</h2>
 </td>
-<td width="130" align="center">
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/><br/>
-  <img src="https://img.shields.io/badge/Tailwind_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/><br/>
-  <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<td width="95%">
+  <table width="100%">
+    <tr>
+      <td><a href="https://lankuzumk.github.io/mk-vault/"><h3>🏛️ MK Vault — Royal Ledger Archive</h3></a></td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      </td>
+    </tr>
+  </table>
+  <p>A curated personal link archive built with the bespoke Royal Ledger visual system — dark ink canvas, burnished brass accents, archival Cinzel typography, monogram seal, automated web screenshots, real-time search & category filtering, and an owner workspace with JSON backup export and restore.</p>
+  <p>
+    <a href="https://lankuzumk.github.io/mk-vault/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
+    <a href="https://github.com/LanKuzuMK/mk-vault"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square" alt="Active"/>
+    &nbsp;&nbsp;<b><a href="https://lankuzumk.github.io/mk-vault/">[Open ↗]</a></b>
+  </p>
 </td>
 </tr>
 
 <tr>
-<td align="center"><h3>02</h3></td>
-<td>
-  <a href="https://read-me-by-jack.vercel.app/"><b>📖 Read Me by Jack — 3D WebGL Studio</b></a><br/>
-  <sub><b>JavaScript · Three.js r187 · GSAP 3.15 · Web Audio API</b></sub><br/><br/>
-  <sub>Studio-grade 3D interactive editorial experience celebrating the release of Read Me by Jack — cinematic camera spline navigating five choreographed desk chapters, procedural PBR textures, steam particle vortex, day/night lighting, 120Hz/144Hz locked rendering, progressive cursive calligraphy signature, and procedural Web Audio synthesizer.</sub><br/><br/>
-  <a href="https://read-me-by-jack.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
-  <a href="https://github.com/LanKuzuMK/read-me-by-jack"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square" alt="Active"/>
+<td align="center" valign="top">
+  <h2>02</h2>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/><br/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/><br/>
-  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
+<td>
+  <table width="100%">
+    <tr>
+      <td><a href="https://read-me-by-jack.vercel.app/"><h3>📖 Read Me by Jack — 3D WebGL Studio</h3></a></td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+      </td>
+    </tr>
+  </table>
+  <p>Studio-grade 3D interactive editorial experience celebrating the release of Read Me by Jack — cinematic camera spline navigating five choreographed desk chapters, procedural PBR textures, steam particle vortex, day/night lighting, 120Hz/144Hz locked rendering, progressive cursive calligraphy signature, and procedural Web Audio synthesizer.</p>
+  <p>
+    <a href="https://read-me-by-jack.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
+    <a href="https://github.com/LanKuzuMK/read-me-by-jack"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square" alt="Active"/>
+    &nbsp;&nbsp;<b><a href="https://read-me-by-jack.vercel.app/">[Open ↗]</a></b>
+  </p>
 </td>
 </tr>
 
 <tr>
-<td align="center"><h3>03</h3></td>
-<td>
-  <a href="https://mk-pro-portfolio.pages.dev/"><b>🌐 MK Pro Portfolio — Cinematic Portfolio</b></a><br/>
-  <sub><b>TypeScript · React · Tailwind CSS</b></sub><br/><br/>
-  <sub>Bilingual cinematic portfolio for MK — fluid page transitions, custom typography system, interactive project showcase, and responsive mobile-first grid architecture engineered for Developer & Creative Technologist positioning.</sub><br/><br/>
-  <a href="https://mk-pro-portfolio.pages.dev/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
-  <a href="https://github.com/LanKuzuMK/mk-pro-portfolio"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square" alt="Active"/>
+<td align="center" valign="top">
+  <h2>03</h2>
 </td>
-<td align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/><br/>
-  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<td>
+  <table width="100%">
+    <tr>
+      <td><a href="https://mk-pro-portfolio.pages.dev/"><h3>🌐 MK Pro Portfolio — Cinematic Portfolio</h3></a></td>
+      <td align="right">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </td>
+    </tr>
+  </table>
+  <p>Bilingual cinematic portfolio for MK — fluid page transitions, custom typography system, interactive project showcase, and responsive mobile-first grid architecture engineered for Developer & Creative Technologist positioning.</p>
+  <p>
+    <a href="https://mk-pro-portfolio.pages.dev/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
+    <a href="https://github.com/LanKuzuMK/mk-pro-portfolio"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-FFD700?style=flat-square" alt="Active"/>
+    &nbsp;&nbsp;<b><a href="https://mk-pro-portfolio.pages.dev/">[Open ↗]</a></b>
+  </p>
 </td>
 </tr>
 </table>
@@ -202,7 +226,7 @@ I build, package, and deploy software across every major consumer and enterprise
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- FULL PROJECT CATALOG -->
+<!-- FULL PROJECT CATALOG (ALL 21 LINKS STANDARDIZED TO "OPEN") -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ## 🏛️ Built Projects — Master Index (21 Projects)
@@ -212,36 +236,36 @@ The complete catalog of web applications, mobile apps, games, tools, and platfor
 ### 🎮 Games & 3D Experiences
 | # | Project | Target Platforms | Tech Stack | Link |
 | :---: | :--- | :---: | :--- | :---: |
-| **04** | [**Skybound Knight**](https://skybound-knight-play.pages.dev/) — Endless fantasy platformer with responsive physics collision and Android APK support | `Android` · `Web` | `TypeScript` · `Canvas` · `Capacitor` | [**Play Game**](https://skybound-knight-play.pages.dev/) |
-| **05** | [**Gundam Strike Protocol**](https://gundam-strike-protocol.vercel.app/) — Tactical mech combat action game with sequence animations and particle effects | `Web` · `Mobile Browser` | `TypeScript` · `Canvas` · `Vite` | [**Launch Game**](https://gundam-strike-protocol.vercel.app/) |
-| **06** | [**MK Christmas Tree Love**](https://mkchristmastreelove.vercel.app/) — Interactive 3D Christmas tree visualizer with particle snowfall and seasonal audio | `Web` · `WebGL` | `Three.js` · `WebGL` · `JavaScript` | [**View 3D**](https://mkchristmastreelove.vercel.app/) |
+| **04** | [**Skybound Knight**](https://skybound-knight-play.pages.dev/) — Endless fantasy platformer with responsive physics collision and Android APK support | `Android` · `Web` | `TypeScript` · `Canvas` · `Capacitor` | [**Open**](https://skybound-knight-play.pages.dev/) |
+| **05** | [**Gundam Strike Protocol**](https://gundam-strike-protocol.vercel.app/) — Tactical mech combat action game with sequence animations and particle effects | `Web` · `Mobile Browser` | `TypeScript` · `Canvas` · `Vite` | [**Open**](https://gundam-strike-protocol.vercel.app/) |
+| **06** | [**MK Christmas Tree Love**](https://mkchristmastreelove.vercel.app/) — Interactive 3D Christmas tree visualizer with particle snowfall and seasonal audio | `Web` · `WebGL` | `Three.js` · `WebGL` · `JavaScript` | [**Open**](https://mkchristmastreelove.vercel.app/) |
 
 ### ⚙️ Web Applications & Platforms
 | # | Project | Target Platforms | Tech Stack | Link |
 | :---: | :--- | :---: | :--- | :---: |
-| **07** | [**Student OS v2**](https://student-os-v2.onrender.com/) — Student academic hub for task management, goal tracking, skill trees, freelance jobs, and peer chat | `Web` · `Desktop Web` | `Java` · `JSP` · `MySQL` · `Bootstrap` | [**Open App**](https://student-os-v2.onrender.com/) |
-| **08** | [**StudentOS Reference**](https://studentos-reference.vercel.app/) — Searchable implementation reference and documentation for custom profile links | `Web` · `Mobile Web` | `TypeScript` · `React` · `Vite` | [**Open Reference**](https://studentos-reference.vercel.app/) |
-| **09** | [**Lunara**](https://lunara-feminine-care.onrender.com/) — Healthcare & wellness tracking application with menstrual cycle analytics and care logs | `Web` · `Mobile Web` | `Node.js` · `Express` · `JavaScript` | [**Open App**](https://lunara-feminine-care.onrender.com/) |
-| **10** | [**Daily Income Organizer**](https://mk-website-five.vercel.app/daily-income-organizer.html) — Personal finance tracker with daily earnings logging, category breakdown, and metrics | `Web` · `Mobile` | `HTML5` · `CSS3` · `JavaScript` | [**Open Tool**](https://mk-website-five.vercel.app/daily-income-organizer.html) |
-| **11** | [**Anonymous Chat**](https://anonymouse-chat-1.onrender.com/) — Real-time anonymous messaging platform featuring WebSocket channels and ephemeral chat rooms | `Web` · `Mobile Web` | `Node.js` · `Socket.io` · `TypeScript` | [**Open Chat**](https://anonymouse-chat-1.onrender.com/) |
-| **12** | [**MK Schedule**](https://mk-schedule.vercel.app/) — Personal scheduling and calendar management system with visual time-block organization | `Web` · `Mobile` | `React` · `TypeScript` · `Vite` | [**Open App**](https://mk-schedule.vercel.app/) |
-| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Web-based cost estimator and budget calculator with categorized breakdowns and export support | `Web` · `Desktop` | `React` · `JavaScript` · `Vite` | [**Calculate**](https://costwebby-mk.vercel.app/) |
+| **07** | [**Student OS v2**](https://student-os-v2.onrender.com/) — Student academic hub for task management, goal tracking, skill trees, freelance jobs, and peer chat | `Web` · `Desktop Web` | `Java` · `JSP` · `MySQL` · `Bootstrap` | [**Open**](https://student-os-v2.onrender.com/) |
+| **08** | [**StudentOS Reference**](https://studentos-reference.vercel.app/) — Searchable implementation reference and documentation for custom profile links | `Web` · `Mobile Web` | `TypeScript` · `React` · `Vite` | [**Open**](https://studentos-reference.vercel.app/) |
+| **09** | [**Lunara**](https://lunara-feminine-care.onrender.com/) — Healthcare & wellness tracking application with menstrual cycle analytics and care logs | `Web` · `Mobile Web` | `Node.js` · `Express` · `JavaScript` | [**Open**](https://lunara-feminine-care.onrender.com/) |
+| **10** | [**Daily Income Organizer**](https://mk-website-five.vercel.app/daily-income-organizer.html) — Personal finance tracker with daily earnings logging, category breakdown, and metrics | `Web` · `Mobile` | `HTML5` · `CSS3` · `JavaScript` | [**Open**](https://mk-website-five.vercel.app/daily-income-organizer.html) |
+| **11** | [**Anonymous Chat**](https://anonymouse-chat-1.onrender.com/) — Real-time anonymous messaging platform featuring WebSocket channels and ephemeral chat rooms | `Web` · `Mobile Web` | `Node.js` · `Socket.io` · `TypeScript` | [**Open**](https://anonymouse-chat-1.onrender.com/) |
+| **12** | [**MK Schedule**](https://mk-schedule.vercel.app/) — Personal scheduling and calendar management system with visual time-block organization | `Web` · `Mobile` | `React` · `TypeScript` · `Vite` | [**Open**](https://mk-schedule.vercel.app/) |
+| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Web-based cost estimator and budget calculator with categorized breakdowns and export support | `Web` · `Desktop` | `React` · `JavaScript` · `Vite` | [**Open**](https://costwebby-mk.vercel.app/) |
 
 ### 🤖 AI, Bots & Computer Vision
 | # | Project | Target Platforms | Tech Stack | Link |
 | :---: | :--- | :---: | :--- | :---: |
-| **14** | [**Mini Jack Bot**](https://mini-jack-by-mk-bot.vercel.app/) — Conversational AI companion bot featuring interactive dialogue and customizable personality | `Web` · `Telegram Bot` | `TypeScript` · `Node.js` · `AI SDK` | [**Open Bot**](https://mini-jack-by-mk-bot.vercel.app/) |
-| **15** | [**Gesture on Air**](https://gesture-on-air.vercel.app/) — Real-time hand gesture recognition and air-drawing interface powered by computer vision | `Web` · `Camera / WebCam` | `MediaPipe` · `Canvas` · `JavaScript` | [**Try Tracking**](https://gesture-on-air.vercel.app/) |
-| **16** | [**E-Commerce Inventory Dashboard**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) — Live inventory management with automated low-stock warnings, analytics, and metrics | `Server` · `Web Desktop` | `Java` · `JSP` · `MySQL` | [**View Code**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) |
+| **14** | [**Mini Jack Bot**](https://mini-jack-by-mk-bot.vercel.app/) — Conversational AI companion bot featuring interactive dialogue and customizable personality | `Web` · `Telegram Bot` | `TypeScript` · `Node.js` · `AI SDK` | [**Open**](https://mini-jack-by-mk-bot.vercel.app/) |
+| **15** | [**Gesture on Air**](https://gesture-on-air.vercel.app/) — Real-time hand gesture recognition and air-drawing interface powered by computer vision | `Web` · `Camera / WebCam` | `MediaPipe` · `Canvas` · `JavaScript` | [**Open**](https://gesture-on-air.vercel.app/) |
+| **16** | [**E-Commerce Inventory Dashboard**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) — Live inventory management with automated low-stock warnings, analytics, and metrics | `Server` · `Web Desktop` | `Java` · `JSP` · `MySQL` | [**Open**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) |
 
 ### 🎨 Portfolios & Showcases
 | # | Project | Target Platforms | Tech Stack | Link |
 | :---: | :--- | :---: | :--- | :---: |
-| **17** | [**Grand MK Nexus**](https://grand-mk-nexus.vercel.app/) — Central portal connecting all MK web projects with animated navigation and unified identity | `All Platforms` | `TypeScript` · `React` · `Vite` | [**Open Hub**](https://grand-mk-nexus.vercel.app/) |
-| **18** | [**MK Portfolio v2 — Code Cultivator**](https://mk-portfolio-v2-code-cultivator.vercel.app/) — Second-generation portfolio with botanical growth metaphor and interactive project showcase | `Web` · `Mobile` | `React` · `TypeScript` · `Tailwind` | [**View Site**](https://mk-portfolio-v2-code-cultivator.vercel.app/) |
-| **19** | [**Khmer Map by MK**](https://khmer-map-by-mk.vercel.app/) — Interactive geographical map of Cambodia with province boundaries, cultural data, and Khmer typography | `Web` · `Mobile` | `Leaflet` · `GeoJSON` · `JavaScript` | [**Explore Map**](https://khmer-map-by-mk.vercel.app/) |
-| **20** | [**MK Fitness God**](https://mkfitnessgod.vercel.app/) — Fitness tracking application with workout logging, progress visualization, and training routines | `Web` · `Mobile PWA` | `React` · `JavaScript` · `Vite` | [**Open App**](https://mkfitnessgod.vercel.app/) |
-| **21** | [**Jack Portfolio One**](https://jack-portfolio-one.vercel.app/) — First-generation portfolio site with clean grid showcase and project cards | `Web` | `HTML5` · `CSS3` · `JavaScript` | [**View Site**](https://jack-portfolio-one.vercel.app/) |
+| **17** | [**Grand MK Nexus**](https://grand-mk-nexus.vercel.app/) — Central portal connecting all MK web projects with animated navigation and unified identity | `All Platforms` | `TypeScript` · `React` · `Vite` | [**Open**](https://grand-mk-nexus.vercel.app/) |
+| **18** | [**MK Portfolio v2 — Code Cultivator**](https://mk-portfolio-v2-code-cultivator.vercel.app/) — Second-generation portfolio with botanical growth metaphor and interactive project showcase | `Web` · `Mobile` | `React` · `TypeScript` · `Tailwind` | [**Open**](https://mk-portfolio-v2-code-cultivator.vercel.app/) |
+| **19** | [**Khmer Map by MK**](https://khmer-map-by-mk.vercel.app/) — Interactive geographical map of Cambodia with province boundaries, cultural data, and Khmer typography | `Web` · `Mobile` | `Leaflet` · `GeoJSON` · `JavaScript` | [**Open**](https://khmer-map-by-mk.vercel.app/) |
+| **20** | [**MK Fitness God**](https://mkfitnessgod.vercel.app/) — Fitness tracking application with workout logging, progress visualization, and training routines | `Web` · `Mobile PWA` | `React` · `JavaScript` · `Vite` | [**Open**](https://mkfitnessgod.vercel.app/) |
+| **21** | [**Jack Portfolio One**](https://jack-portfolio-one.vercel.app/) — First-generation portfolio site with clean grid showcase and project cards | `Web` | `HTML5` · `CSS3` · `JavaScript` | [**Open**](https://jack-portfolio-one.vercel.app/) |
 
 <br/>
 
@@ -257,11 +281,11 @@ I am open to collaborating on **iOS & Android mobile apps**, **Windows & macOS s
 
 | Channel | Contact / Link | Action |
 | :--- | :--- | :---: |
-| 💬 **Telegram** | [@TianyiXiong](https://t.me/TianyiXiong) | [**Message Me**](https://t.me/TianyiXiong) |
-| 🎥 **YouTube** | [@jackmp3fx](https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn) | [**Watch Channel**](https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn) |
-| 👤 **Facebook** | [MK Profile](https://www.facebook.com/share/165PRpanWb/) | [**Connect**](https://www.facebook.com/share/165PRpanWb/) |
-| 🐙 **GitHub** | [LanKuzuMK](https://github.com/LanKuzuMK) | [**Follow**](https://github.com/LanKuzuMK) |
-| 🏛️ **Project Vault** | [MK Vault](https://lankuzumk.github.io/mk-vault/) | [**Browse Vault**](https://lankuzumk.github.io/mk-vault/) |
+| 💬 **Telegram** | [@TianyiXiong](https://t.me/TianyiXiong) | [**Open**](https://t.me/TianyiXiong) |
+| 🎥 **YouTube** | [@jackmp3fx](https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn) | [**Open**](https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn) |
+| 👤 **Facebook** | [MK Profile](https://www.facebook.com/share/165PRpanWb/) | [**Open**](https://www.facebook.com/share/165PRpanWb/) |
+| 🐙 **GitHub** | [LanKuzuMK](https://github.com/LanKuzuMK) | [**Open**](https://github.com/LanKuzuMK) |
+| 🏛️ **Project Vault** | [MK Vault](https://lankuzumk.github.io/mk-vault/) | [**Open**](https://lankuzumk.github.io/mk-vault/) |
 
 </div>
 
