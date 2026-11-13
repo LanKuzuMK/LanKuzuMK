@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/header.svg" alt="MK — Full-Stack • 3D Web • Mobile & Desktop Architect" />
+<img width="100%" src="./header.svg" alt="MK — Full-Stack • 3D Web • Mobile & Desktop Architect" />
 
 <div align="center">
 
@@ -160,7 +160,7 @@ flowchart LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LanKuzuMK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0a10&title_color=dfc37b&icon_color=c9a24b&text_color=aba6b0&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=LanKuzuMK&theme=tokyonight&hide_border=true&background=0b0a10&ring=c9a24b&fire=dfc37b&currStreakLabel=dfc37b&sideLabels=dfc37b&dates=aba6b0" alt="GitHub Streak" />
 
 </div>
@@ -194,17 +194,13 @@ flowchart LR
 <td width="60" align="center" valign="top">
   <h2>01</h2>
 </td>
-<td width="95%">
-  <table width="100%">
-    <tr>
-      <td><a href="https://lankuzumk.github.io/mk-vault/"><h3>🏛️ MK Vault — Royal Ledger Archive</h3></a></td>
-      <td align="right">
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      </td>
-    </tr>
-  </table>
+<td>
+  <a href="https://lankuzumk.github.io/mk-vault/"><h3>🏛️ MK Vault — Royal Ledger Archive</h3></a>
+  <p>
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind_4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  </p>
   <p>A curated personal link archive built with the bespoke Royal Ledger visual system — dark ink canvas, burnished brass accents, archival Cinzel typography, monogram seal, automated web screenshots, real-time search & category filtering, and an owner workspace with JSON backup export and restore.</p>
   <p>
     <a href="https://lankuzumk.github.io/mk-vault/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
@@ -216,20 +212,16 @@ flowchart LR
 </tr>
 
 <tr>
-<td align="center" valign="top">
+<td width="60" align="center" valign="top">
   <h2>02</h2>
 </td>
 <td>
-  <table width="100%">
-    <tr>
-      <td><a href="https://read-me-by-jack.vercel.app/"><h3>📖 Read Me by Jack — 3D WebGL Studio</h3></a></td>
-      <td align="right">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
-        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://read-me-by-jack.vercel.app/"><h3>📖 Read Me by Jack — 3D WebGL Studio</h3></a>
+  <p>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+    <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  </p>
   <p>Studio-grade 3D interactive editorial experience celebrating the release of Read Me by Jack — cinematic camera spline navigating five choreographed desk chapters, procedural PBR textures, steam particle vortex, day/night lighting, 120Hz/144Hz locked rendering, progressive cursive calligraphy signature, and procedural Web Audio synthesizer.</p>
   <p>
     <a href="https://read-me-by-jack.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
@@ -241,20 +233,16 @@ flowchart LR
 </tr>
 
 <tr>
-<td align="center" valign="top">
+<td width="60" align="center" valign="top">
   <h2>03</h2>
 </td>
 <td>
-  <table width="100%">
-    <tr>
-      <td><a href="https://mk-pro-portfolio.pages.dev/"><h3>🌐 MK Pro Portfolio — Cinematic Portfolio</h3></a></td>
-      <td align="right">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://mk-pro-portfolio.pages.dev/"><h3>🌐 MK Pro Portfolio — Cinematic Portfolio</h3></a>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  </p>
   <p>Bilingual cinematic portfolio for MK — fluid page transitions, custom typography system, interactive project showcase, and responsive mobile-first grid architecture engineered for Developer & Creative Technologist positioning.</p>
   <p>
     <a href="https://mk-pro-portfolio.pages.dev/"><img src="https://img.shields.io/badge/LIVE_SITE-00C853?style=flat-square&logo=statuspage&logoColor=white" alt="Live"/></a>
@@ -351,4 +339,4 @@ I am open to collaborating on **iOS & Android mobile apps**, **Windows & macOS s
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/footer.svg" alt="MK profile footer" />
+<img width="100%" src="./footer.svg" alt="MK profile footer" />

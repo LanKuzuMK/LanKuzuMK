@@ -1,20 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="100%" height="100">
-  <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0b0a10"/>
-      <stop offset="50%" stop-color="#1b1722"/>
-      <stop offset="100%" stop-color="#0b0a10"/>
-    </linearGradient>
-    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#c9a24b" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#73521b" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#dfc37b" stop-opacity="0.9"/>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#footerBg)"/>
-  <path d="M 0,0 Q 300,70 600,20 T 1200,60 L 1200,0 L 0,0 Z" fill="url(#footerWave)"/>
-  <path d="M 0,0 Q 400,45 800,10 T 1200,35 L 1200,0 L 0,0 Z" fill="#0b0a10" opacity="0.85"/>
-  <circle cx="600" cy="50" r="2.5" fill="#dfc37b" opacity="0.6"/>
-  <line x1="450" y1="50" x2="570" y2="50" stroke="#c9a24b" stroke-width="0.5" opacity="0.3"/>
-  <line x1="630" y1="50" x2="750" y2="50" stroke="#c9a24b" stroke-width="0.5" opacity="0.3"/>
-</svg>
+
+      <svg
+        width="854"
+        height="120"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 120"
+      >
+        <style>
+      .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } path {   transform: rotate(180deg);   transform-origin: 50% 50%;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#ff758f"/><stop offset="20%" stop-color="#d63050"/><stop offset="60%" stop-color="#7a1828"/><stop offset="100%" stop-color="#1f090d"/>
+              </linearGradient>
+            </defs>
+        
+      <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z;M0 0L 0 65Q 213.5 80 427 60T 854 50L 854 0 Z;M0 0L 0 85Q 213.5 55 427 85T 854 50L 854 0 Z;M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 40 427 40T 854 60L 854 0 Z;M0 0L 0 65Q 213.5 45 427 70T 854 85L 854 0 Z;M0 0L 0 55Q 213.5 100 427 70T 854 80L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         
+        
+      </svg>
+    
