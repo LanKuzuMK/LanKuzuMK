@@ -120,7 +120,7 @@ fun_fact: "I hate AI, but not too much." 😉
 <!-- PROJECT SHOWCASE -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> &nbsp;Production Portfolio — 20 Shipped Projects
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> &nbsp;Production Portfolio — 21 Shipped Projects
 
 > *Every entry below is a live, publicly accessible application deployed and maintained in production.*
 
@@ -242,15 +242,16 @@ fun_fact: "I hate AI, but not too much." 😉
 
 <!-- PORTFOLIOS & SHOWCASES -->
 <details>
-<summary>&nbsp;🎨 &nbsp;<b>Portfolios, Showcases & Experiments</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/4_Projects-FFD700?style=flat-square" alt="4"/></summary>
+<summary>&nbsp;🎨 &nbsp;<b>Portfolios, Showcases & Experiments</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/5_Projects-FFD700?style=flat-square" alt="5"/></summary>
 <br/>
 
 | # | Project | Stack | Status |
 |:-:|:---|:---|:-:|
-| `17` | [**MK Portfolio v2 — Code Cultivator**](https://mk-portfolio-v2-code-cultivator.vercel.app/) — Second-generation portfolio with botanical code-growth metaphor and interactive project garden | `TypeScript` · `React` · `Vite` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
-| `18` | [**Jack Portfolio One**](https://jack-portfolio-one.vercel.app/) — First-generation portfolio site with clean grid showcase and project cards | `JavaScript` · `HTML5` · `CSS3` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
-| `19` | [**Khmer Map by MK**](https://khmer-map-by-mk.vercel.app/) — Interactive geographical map of Cambodia with province data, cultural annotations, and Khmer typography | `JavaScript` · `Leaflet` · `GeoJSON` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
-| `20` | [**MK Fitness God**](https://mkfitnessgod.vercel.app/) — Fitness tracking application with workout logging, progress visualization, and training program management | `JavaScript` · `React` · `Vite` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
+| `17` | [**Grand MK Nexus**](https://grand-mk-nexus.vercel.app/) — Central hub portal connecting all MK projects with animated navigation, project discovery, and unified branding | `TypeScript` · `React` · `Vite` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
+| `18` | [**MK Portfolio v2 — Code Cultivator**](https://mk-portfolio-v2-code-cultivator.vercel.app/) — Second-generation portfolio with botanical code-growth metaphor and interactive project garden | `TypeScript` · `React` · `Vite` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
+| `19` | [**Jack Portfolio One**](https://jack-portfolio-one.vercel.app/) — First-generation portfolio site with clean grid showcase and project cards | `JavaScript` · `HTML5` · `CSS3` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
+| `20` | [**Khmer Map by MK**](https://khmer-map-by-mk.vercel.app/) — Interactive geographical map of Cambodia with province data, cultural annotations, and Khmer typography | `JavaScript` · `Leaflet` · `GeoJSON` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
+| `21` | [**MK Fitness God**](https://mkfitnessgod.vercel.app/) — Fitness tracking application with workout logging, progress visualization, and training program management | `JavaScript` · `React` · `Vite` | ![Live](https://img.shields.io/badge/●-LIVE-00C853?style=flat-square) |
 
 </details>
 
@@ -260,11 +261,11 @@ fun_fact: "I hate AI, but not too much." 😉
 
 | Metric | Count |
 |:---|:---:|
-| 🌐 **Total Live Production Sites** | **20** |
+| 🌐 **Total Live Production Sites** | **21** |
 | 🎮 **Games & 3D Experiences** | **3** |
 | ⚙️ **Full-Stack Web Applications** | **7** |
 | 🤖 **AI, Bots & Computer Vision** | **3** |
-| 🎨 **Portfolios & Showcases** | **4** |
+| 🎨 **Portfolios & Showcases** | **5** |
 | ⭐ **Featured Flagship Works** | **3** |
 | 🚀 **Deployment Platforms** | Vercel · Cloudflare · Render · GitHub Pages |
 
@@ -321,7 +322,7 @@ I'm open to collaborating on **3D web experiences**, **mobile applications**, **
 <br/>
 
 <div align="center">
-  <sub>⭐ <b>20 production sites shipped and counting.</b> If you like what you see, drop a star on a repo that caught your eye.</sub>
+  <sub>⭐ <b>21 production sites shipped and counting.</b> If you like what you see, drop a star on a repo that caught your eye.</sub>
 </div>
 
 <br/>
