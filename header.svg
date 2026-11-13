@@ -1,49 +1,133 @@
+<svg
+  width="854"
+  height="200"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="z-index:1;position:relative"
+  viewBox="0 0 854 200"
+>
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes livelyOutline {
+      0%   { stroke: #ff1744; filter: drop-shadow(0 0 8px rgba(255, 23, 68, 0.8)); }
+      16%  { stroke: #ff9100; filter: drop-shadow(0 0 8px rgba(255, 145, 0, 0.8)); }
+      33%  { stroke: #ffd600; filter: drop-shadow(0 0 8px rgba(255, 214, 0, 0.8)); }
+      50%  { stroke: #00e676; filter: drop-shadow(0 0 8px rgba(0, 230, 118, 0.8)); }
+      66%  { stroke: #00e5ff; filter: drop-shadow(0 0 8px rgba(0, 229, 255, 0.8)); }
+      83%  { stroke: #d500f9; filter: drop-shadow(0 0 8px rgba(213, 0, 249, 0.8)); }
+      100% { stroke: #ff1744; filter: drop-shadow(0 0 8px rgba(255, 23, 68, 0.8)); }
+    }
+    @keyframes subtitleGlow {
+      0%   { stroke: #ff1744; }
+      20%  { stroke: #ff9100; }
+      40%  { stroke: #00e676; }
+      60%  { stroke: #00e5ff; }
+      80%  { stroke: #d500f9; }
+      100% { stroke: #ff1744; }
+    }
+    .text-main {
+      font-size: 54px;
+      font-weight: 900;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      letter-spacing: 4px;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    .text-outline {
+      stroke-width: 4px;
+      stroke-linejoin: round;
+      stroke-linecap: round;
+      animation: livelyOutline 4s infinite linear;
+    }
+    .desc-text {
+      font-size: 16px;
+      font-weight: 600;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      letter-spacing: 0.8px;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    .desc-outline {
+      stroke-width: 1px;
+      stroke-linejoin: round;
+      animation: subtitleGlow 5s infinite linear;
+    }
+  </style>
 
-      <svg
-        width="854"
-        height="200"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 200"
-      >
-        <style>
-      .text {   font-size: 48px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 16px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#1f090d"/><stop offset="40%" stop-color="#7a1828"/><stop offset="80%" stop-color="#d63050"/><stop offset="100%" stop-color="#ff758f"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="34%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >MK</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="54%" class="desc" style="fill:#ffffff;">Full-Stack Developer · 3D Web · Mobile &amp; Desktop Engineer</text>
-      </svg>
-    
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f090d"/>
+      <stop offset="40%" stop-color="#7a1828"/>
+      <stop offset="80%" stop-color="#d63050"/>
+      <stop offset="100%" stop-color="#ff758f"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="65%" stop-color="#f5f6fa"/>
+      <stop offset="100%" stop-color="#dcdde1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Animated Undulating Waving Background -->
+  <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+      </animate>
+    </path>
+    <path d="" fill="url(#linear)" opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcmod="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+
+  <!-- 3D EXTRUSION & SHADOW LAYERS FOR "MK" -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="37.2%" class="text-main" fill="#000000" opacity="0.85">MK</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="36.2%" class="text-main" fill="#180407" opacity="0.95">MK</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35.3%" class="text-main" fill="#380912" opacity="0.95">MK</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="34.6%" class="text-main" fill="#580f1d" opacity="0.95">MK</text>
+
+  <!-- LIVELY CHANGING COLOR OUTLINE (SMIL + CSS KEYFRAMES) -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="33.8%" class="text-main text-outline" fill="none" stroke="#ff1744">
+    MK
+    <animate
+      attributeName="stroke"
+      dur="4s"
+      repeatCount="indefinite"
+      values="#ff1744;#ff9100;#ffd600;#00e676;#00e5ff;#d500f9;#ff1744"
+    />
+  </text>
+
+  <!-- TOP FACE OF 3D "MK" -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="33.8%" class="text-main" fill="url(#textGrad)">MK</text>
+
+  <!-- SUBTITLE WITH 3D DROP SHADOW & LIVELY OUTLINE -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="54.8%" class="desc-text" fill="#000000" opacity="0.85">Full-Stack Developer · 3D Web · Mobile &amp; Desktop Engineer</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="54.0%" class="desc-text desc-outline" fill="none" stroke="#ff1744">
+    Full-Stack Developer · 3D Web · Mobile &amp; Desktop Engineer
+    <animate
+      attributeName="stroke"
+      dur="5s"
+      repeatCount="indefinite"
+      values="#ff1744;#ff9100;#00e676;#00e5ff;#d500f9;#ff1744"
+    />
+  </text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="54.0%" class="desc-text" fill="#ffffff">Full-Stack Developer · 3D Web · Mobile &amp; Desktop Engineer</text>
+</svg>
