@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,35:16141c,70:221b12,100:c9a24b&height=210&section=header&text=MK&fontSize=80&fontColor=f3eee3&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%203D%20Web%20%E2%80%A2%20Mobile%20%26%20Desktop%20Engineer&descAlignY=58&descSize=15&descColor=dfc37b" alt="Header" />
+<img width="100%" src="https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/header.svg" alt="MK — Full-Stack • 3D Web • Mobile & Desktop Architect" />
 
 <div align="center">
 
@@ -7,10 +7,10 @@
 <br/>
 
 <a href="https://t.me/TianyiXiong" target="_blank"><img src="https://img.shields.io/badge/Telegram-@TianyiXiong-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
-<a href="https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn" target="_blank"><img src="https://img.shields.io/badge/YouTube-@jackmp3fx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
-<a href="https://www.facebook.com/share/165PRpanWb/" target="_blank"><img src="https://img.shields.io/badge/Facebook-MK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://github.com/LanKuzuMK" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanKuzuMK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="https://lankuzumk.github.io/mk-vault/" target="_blank"><img src="https://img.shields.io/badge/MK_Vault-Archive-C9A24B?style=for-the-badge&logo=databricks&logoColor=white" alt="MK Vault" /></a>&nbsp;
-<a href="https://github.com/LanKuzuMK" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanKuzuMK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn" target="_blank"><img src="https://img.shields.io/badge/YouTube-@jackmp3fx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+<a href="https://www.facebook.com/share/165PRpanWb/" target="_blank"><img src="https://img.shields.io/badge/Facebook-MK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <br/><br/>
 
@@ -249,7 +249,7 @@ The complete catalog of web applications, mobile apps, games, tools, and platfor
 | **10** | [**Daily Income Organizer**](https://mk-website-five.vercel.app/daily-income-organizer.html) — Personal finance tracker with daily earnings logging, category breakdown, and metrics | `Web` · `Mobile` | `HTML5` · `CSS3` · `JavaScript` | [**Open**](https://mk-website-five.vercel.app/daily-income-organizer.html) |
 | **11** | [**Anonymous Chat**](https://anonymouse-chat-1.onrender.com/) — Real-time anonymous messaging platform featuring WebSocket channels and ephemeral chat rooms | `Web` · `Mobile Web` | `Node.js` · `Socket.io` · `TypeScript` | [**Open**](https://anonymouse-chat-1.onrender.com/) |
 | **12** | [**MK Schedule**](https://mk-schedule.vercel.app/) — Personal scheduling and calendar management system with visual time-block organization | `Web` · `Mobile` | `React` · `TypeScript` · `Vite` | [**Open**](https://mk-schedule.vercel.app/) |
-| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Web-based cost estimator and budget calculator with categorized breakdowns and export support | `Web` · `Desktop` | `React` · `JavaScript` · `Vite` | [**Open**](https://costwebby-mk.vercel.app/) |
+| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Web-based cost estimator and budget calculator with categorized breakdowns and export support | `Web` · `Desktop` | `React` · `JavaScript` · `Vite` | [**Calculate**](https://costwebby-mk.vercel.app/) |
 
 ### 🤖 AI, Bots & Computer Vision
 | # | Project | Target Platforms | Tech Stack | Link |
@@ -297,4 +297,4 @@ I am open to collaborating on **iOS & Android mobile apps**, **Windows & macOS s
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a24b,30:221b12,70:16141c,100:0b0a10&height=100&section=footer" alt="Footer" />
+<img width="100%" src="https://raw.githubusercontent.com/LanKuzuMK/LanKuzuMK/main/footer.svg" alt="Footer" />
