@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,35:16141c,70:221b12,100:c9a24b&height=200&section=header&text=MK&fontSize=80&fontColor=f3eee3&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%203D%20Web%20%E2%80%A2%20Mobile%20Engineer&descAlignY=60&descSize=15&descColor=dfc37b" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a10,35:16141c,70:221b12,100:c9a24b&height=210&section=header&text=MK&fontSize=80&fontColor=f3eee3&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%203D%20Web%20%E2%80%A2%20Mobile%20%26%20Desktop%20Engineer&descAlignY=58&descSize=15&descColor=dfc37b" alt="Header" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=DFC37B&center=true&vCenter=true&width=650&height=45&lines=Building+3D+Web+Experiences+%26+Games;Crafting+Production-Ready+Full-Stack+Apps;Turning+Ideas+Into+High-End+Digital+Products" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=DFC37B&center=true&vCenter=true&width=700&height=45&lines=Building+for+iOS%2C+Android%2C+Windows%2C+macOS+%26+Web;Crafting+Production-Ready+Cross-Platform+Apps;Turning+Ideas+Into+High-End+Digital+Products" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -21,7 +21,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
+<!-- ABOUT ME & MULTI-PLATFORM CAPABILITIES -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 Executive Summary
@@ -29,19 +29,24 @@
 ```yaml
 name: MK
 handle: "@LanKuzuMK"
-title: Full-Stack Engineer & Creative Technologist
+title: Full-Stack, Mobile & Desktop Engineer • Creative Technologist
 based_in: Cambodia 🇰🇭
 
+platforms_supported:
+  mobile:  [iOS, Android]
+  desktop: [Windows, macOS]
+  web:     [Modern Browsers, 3D WebGL, Responsive SPAs]
+
 currently_building:
-  - 3D immersive web experiences with Three.js & WebGL
-  - Cross-platform mobile applications with Flutter & Capacitor
-  - Full-stack production platforms with React 19, Node.js & Java
-  - Real-time communications and computer vision tools
+  - Cross-platform mobile applications for iOS & Android with Flutter, Dart & Capacitor
+  - Native & hybrid desktop software for Windows & macOS
+  - 3D interactive web experiences with Three.js, GSAP & WebGL
+  - Full-stack production platforms with React 19, TypeScript, Node.js & Java
 
 core_principles:
   - Build clean, build complete, build production-grade
   - Performance is a feature, not an afterthought
-  - Every pixel and transition is intentional
+  - Unified multi-platform continuity across every device and screen
 
 fun_fact: "I hate AI, but not too much." 😉
 ```
@@ -49,15 +54,51 @@ fun_fact: "I hate AI, but not too much." 😉
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
+<!-- MULTI-PLATFORM ECOSYSTEM -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📱 Multi-Platform Engineering (iOS · Android · Windows · macOS)
+
+I build, package, and deploy software across every major consumer and enterprise operating system:
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Web-646CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" />
+</p>
+
+<!-- Mobile & Desktop Toolchain Skill Icons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=apple,windows,android,flutter,dart,swift,kotlin,electron,tauri&theme=dark" alt="Cross-Platform Toolchain" />
+</a>
+
+</div>
+
+<br/>
+
+| Target Platform | Runtime & Frameworks | Native Languages | What I Build |
+| :--- | :--- | :--- | :--- |
+| 📱 **iOS** | `Flutter` · `Capacitor` · `React Native` | `Swift` · `Objective-C` | App Store builds, mobile games, utilities, and sensor-driven native integrations. |
+| 🤖 **Android** | `Flutter` · `Android SDK` · `Capacitor` | `Kotlin` · `Java` | Production APK & AAB releases, foreground services, offline caching, and responsive UIs. |
+| 🪟 **Windows** | `Flutter Desktop` · `Electron` · `Tauri` | `C# / .NET` · `C++` | High-performance Windows desktop tools, utility dashboards, and local executable apps. |
+| 🍏 **macOS** | `Flutter Desktop` · `Electron` · `Tauri` | `Swift` · `Objective-C` | Clean macOS desktop applications adhering to Apple Human Interface Guidelines. |
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
 <!-- TECH ARSENAL -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🛠️ Core Technologies
+## 🛠️ Full Technical Arsenal
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,threejs,tailwind,vite,java,dart,flutter,nodejs,mysql,postgres,docker,git,github,vercel,cloudflare,androidstudio,figma,linux&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,threejs,tailwind,vite,java,dart,flutter,swift,kotlin,electron,windows,apple,android,nodejs,mysql,postgres,docker,git,github,vercel,cloudflare,androidstudio,figma&theme=dark&perline=13" alt="Tech Stack" />
 </a>
 
 </div>
@@ -65,19 +106,20 @@ fun_fact: "I hate AI, but not too much." 😉
 <br/>
 
 <details>
-<summary><b>📋 Detailed Technology Breakdown</b></summary>
+<summary><b>📋 Detailed Technology & Framework Breakdown</b></summary>
 <br/>
 
-| Domain | Technologies |
+| Domain | Technologies & Tooling |
 |:---|:---|
-| **Languages** | `JavaScript` · `TypeScript` · `Java` · `Dart` · `HTML5` · `CSS3` |
-| **Frontend** | `React 19` · `Three.js` · `GSAP 3.15` · `Tailwind CSS 4` · `Vite` · `WebGL` · `Lenis` |
-| **Backend** | `Node.js` · `Express` · `tRPC` · `Drizzle ORM` · `JSP / Servlet` |
-| **Mobile** | `Flutter` · `Capacitor` · `Android SDK` · `Android Studio` |
-| **3D / Creative** | `Three.js r187` · `WebGL 2.0` · `Web Audio API` · `Procedural PBR Textures` |
-| **Database** | `MySQL` · `PostgreSQL` · `Cloudflare D1 (SQLite)` · `Drizzle Kit` |
+| **Programming Languages** | `JavaScript` · `TypeScript` · `Java` · `Dart` · `Swift` · `Kotlin` · `HTML5` · `CSS3` |
+| **Mobile Platforms** | `iOS` (App Store) · `Android` (Play Store / APK) · `Flutter` · `Capacitor` · `Android Studio` |
+| **Desktop Platforms** | `Windows` (Win32 / Universal) · `macOS` · `Flutter Desktop` · `Electron` · `Tauri` |
+| **Web Frontend** | `React 19` · `Three.js` · `GSAP 3.15` · `Tailwind CSS 4` · `Vite` · `WebGL` · `Lenis` |
+| **Backend & APIs** | `Node.js` · `Express` · `tRPC` · `Drizzle ORM` · `JSP / Servlet` |
+| **3D & Game Tech** | `Three.js r187` · `WebGL 2.0` · `Web Audio API` · `Canvas 2D` · `Procedural PBR Textures` |
+| **Database Systems** | `MySQL` · `PostgreSQL` · `Cloudflare D1 (SQLite)` · `Drizzle Kit` |
 | **DevOps & Cloud** | `GitHub Actions` · `Vercel` · `Cloudflare Pages` · `Render` · `Docker` |
-| **Design & Tooling** | `Git` · `Figma` · `Android Studio` · `VS Code` · `Postman` |
+| **UI/UX & Design** | `Figma` · `Royal Ledger System` · `Glassmorphism` · `Responsive Layouts` |
 
 </details>
 
@@ -165,41 +207,41 @@ fun_fact: "I hate AI, but not too much." 😉
 
 ## 🏛️ Built Projects — Master Index (21 Projects)
 
-The complete catalog of web applications, games, tools, and platforms I have built and deployed:
+The complete catalog of web applications, mobile apps, games, tools, and platforms I have built and deployed:
 
 ### 🎮 Games & 3D Experiences
-| # | Project | Tech Stack | Link |
-| :---: | :--- | :--- | :---: |
-| **04** | [**Skybound Knight**](https://skybound-knight-play.pages.dev/) — Endless fantasy platformer with responsive physics collision and Android APK support | `TypeScript` · `Canvas` · `Capacitor` | [**Play Game**](https://skybound-knight-play.pages.dev/) |
-| **05** | [**Gundam Strike Protocol**](https://gundam-strike-protocol.vercel.app/) — Tactical mech combat action game with sequence animations and particle effects | `TypeScript` · `Canvas` · `Vite` | [**Launch Game**](https://gundam-strike-protocol.vercel.app/) |
-| **06** | [**MK Christmas Tree Love**](https://mkchristmastreelove.vercel.app/) — Interactive 3D Christmas tree visualizer with particle snowfall and seasonal audio | `Three.js` · `WebGL` · `JavaScript` | [**View 3D**](https://mkchristmastreelove.vercel.app/) |
+| # | Project | Target Platforms | Tech Stack | Link |
+| :---: | :--- | :---: | :--- | :---: |
+| **04** | [**Skybound Knight**](https://skybound-knight-play.pages.dev/) — Endless fantasy platformer with responsive physics collision and Android APK support | `Android` · `Web` | `TypeScript` · `Canvas` · `Capacitor` | [**Play Game**](https://skybound-knight-play.pages.dev/) |
+| **05** | [**Gundam Strike Protocol**](https://gundam-strike-protocol.vercel.app/) — Tactical mech combat action game with sequence animations and particle effects | `Web` · `Mobile Browser` | `TypeScript` · `Canvas` · `Vite` | [**Launch Game**](https://gundam-strike-protocol.vercel.app/) |
+| **06** | [**MK Christmas Tree Love**](https://mkchristmastreelove.vercel.app/) — Interactive 3D Christmas tree visualizer with particle snowfall and seasonal audio | `Web` · `WebGL` | `Three.js` · `WebGL` · `JavaScript` | [**View 3D**](https://mkchristmastreelove.vercel.app/) |
 
 ### ⚙️ Web Applications & Platforms
-| # | Project | Tech Stack | Link |
-| :---: | :--- | :--- | :---: |
-| **07** | [**Student OS v2**](https://student-os-v2.onrender.com/) — Student academic hub for task management, goal tracking, skill trees, freelance jobs, and peer chat | `Java` · `JSP` · `MySQL` · `Bootstrap` | [**Open App**](https://student-os-v2.onrender.com/) |
-| **08** | [**StudentOS Reference**](https://studentos-reference.vercel.app/) — Searchable implementation reference and documentation for custom profile links | `TypeScript` · `React` · `Vite` | [**Open Reference**](https://studentos-reference.vercel.app/) |
-| **09** | [**Lunara**](https://lunara-feminine-care.onrender.com/) — Healthcare & wellness tracking application with menstrual cycle analytics and care logs | `Node.js` · `Express` · `JavaScript` | [**Open App**](https://lunara-feminine-care.onrender.com/) |
-| **10** | [**Daily Income Organizer**](https://mk-website-five.vercel.app/daily-income-organizer.html) — Personal finance tracker with daily earnings logging, category breakdown, and metrics | `HTML5` · `CSS3` · `JavaScript` | [**Open Tool**](https://mk-website-five.vercel.app/daily-income-organizer.html) |
-| **11** | [**Anonymous Chat**](https://anonymouse-chat-1.onrender.com/) — Real-time anonymous messaging platform featuring WebSocket channels and ephemeral chat rooms | `Node.js` · `Socket.io` · `TypeScript` | [**Open Chat**](https://anonymouse-chat-1.onrender.com/) |
-| **12** | [**MK Schedule**](https://mk-schedule.vercel.app/) — Personal scheduling and calendar management system with visual time-block organization | `React` · `TypeScript` · `Vite` | [**Open App**](https://mk-schedule.vercel.app/) |
-| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Web-based cost estimator and budget calculator with categorized breakdowns and export support | `React` · `JavaScript` · `Vite` | [**Calculate**](https://costwebby-mk.vercel.app/) |
+| # | Project | Target Platforms | Tech Stack | Link |
+| :---: | :--- | :---: | :--- | :---: |
+| **07** | [**Student OS v2**](https://student-os-v2.onrender.com/) — Student academic hub for task management, goal tracking, skill trees, freelance jobs, and peer chat | `Web` · `Desktop Web` | `Java` · `JSP` · `MySQL` · `Bootstrap` | [**Open App**](https://student-os-v2.onrender.com/) |
+| **08** | [**StudentOS Reference**](https://studentos-reference.vercel.app/) — Searchable implementation reference and documentation for custom profile links | `Web` · `Mobile Web` | `TypeScript` · `React` · `Vite` | [**Open Reference**](https://studentos-reference.vercel.app/) |
+| **09** | [**Lunara**](https://lunara-feminine-care.onrender.com/) — Healthcare & wellness tracking application with menstrual cycle analytics and care logs | `Web` · `Mobile Web` | `Node.js` · `Express` · `JavaScript` | [**Open App**](https://lunara-feminine-care.onrender.com/) |
+| **10** | [**Daily Income Organizer**](https://mk-website-five.vercel.app/daily-income-organizer.html) — Personal finance tracker with daily earnings logging, category breakdown, and metrics | `Web` · `Mobile` | `HTML5` · `CSS3` · `JavaScript` | [**Open Tool**](https://mk-website-five.vercel.app/daily-income-organizer.html) |
+| **11** | [**Anonymous Chat**](https://anonymouse-chat-1.onrender.com/) — Real-time anonymous messaging platform featuring WebSocket channels and ephemeral chat rooms | `Web` · `Mobile Web` | `Node.js` · `Socket.io` · `TypeScript` | [**Open Chat**](https://anonymouse-chat-1.onrender.com/) |
+| **12** | [**MK Schedule**](https://mk-schedule.vercel.app/) — Personal scheduling and calendar management system with visual time-block organization | `Web` · `Mobile` | `React` · `TypeScript` · `Vite` | [**Open App**](https://mk-schedule.vercel.app/) |
+| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Web-based cost estimator and budget calculator with categorized breakdowns and export support | `Web` · `Desktop` | `React` · `JavaScript` · `Vite` | [**Calculate**](https://costwebby-mk.vercel.app/) |
 
 ### 🤖 AI, Bots & Computer Vision
-| # | Project | Tech Stack | Link |
-| :---: | :--- | :--- | :---: |
-| **14** | [**Mini Jack Bot**](https://mini-jack-by-mk-bot.vercel.app/) — Conversational AI companion bot featuring interactive dialogue and customizable personality | `TypeScript` · `Node.js` · `AI SDK` | [**Open Bot**](https://mini-jack-by-mk-bot.vercel.app/) |
-| **15** | [**Gesture on Air**](https://gesture-on-air.vercel.app/) — Real-time hand gesture recognition and air-drawing interface powered by computer vision | `MediaPipe` · `Canvas` · `JavaScript` | [**Try Tracking**](https://gesture-on-air.vercel.app/) |
-| **16** | [**E-Commerce Inventory Dashboard**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) — Live inventory management with automated low-stock warnings, analytics, and metrics | `Java` · `JSP` · `MySQL` | [**View Code**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) |
+| # | Project | Target Platforms | Tech Stack | Link |
+| :---: | :--- | :---: | :--- | :---: |
+| **14** | [**Mini Jack Bot**](https://mini-jack-by-mk-bot.vercel.app/) — Conversational AI companion bot featuring interactive dialogue and customizable personality | `Web` · `Telegram Bot` | `TypeScript` · `Node.js` · `AI SDK` | [**Open Bot**](https://mini-jack-by-mk-bot.vercel.app/) |
+| **15** | [**Gesture on Air**](https://gesture-on-air.vercel.app/) — Real-time hand gesture recognition and air-drawing interface powered by computer vision | `Web` · `Camera / WebCam` | `MediaPipe` · `Canvas` · `JavaScript` | [**Try Tracking**](https://gesture-on-air.vercel.app/) |
+| **16** | [**E-Commerce Inventory Dashboard**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) — Live inventory management with automated low-stock warnings, analytics, and metrics | `Server` · `Web Desktop` | `Java` · `JSP` · `MySQL` | [**View Code**](https://github.com/LanKuzuMK/e-commerce-inventory-dashboard) |
 
 ### 🎨 Portfolios & Showcases
-| # | Project | Tech Stack | Link |
-| :---: | :--- | :--- | :---: |
-| **17** | [**Grand MK Nexus**](https://grand-mk-nexus.vercel.app/) — Central portal connecting all MK web projects with animated navigation and unified identity | `TypeScript` · `React` · `Vite` | [**Open Hub**](https://grand-mk-nexus.vercel.app/) |
-| **18** | [**MK Portfolio v2 — Code Cultivator**](https://mk-portfolio-v2-code-cultivator.vercel.app/) — Second-generation portfolio with botanical growth metaphor and interactive project showcase | `React` · `TypeScript` · `Tailwind` | [**View Site**](https://mk-portfolio-v2-code-cultivator.vercel.app/) |
-| **19** | [**Khmer Map by MK**](https://khmer-map-by-mk.vercel.app/) — Interactive geographical map of Cambodia with province boundaries, cultural data, and Khmer typography | `Leaflet` · `GeoJSON` · `JavaScript` | [**Explore Map**](https://khmer-map-by-mk.vercel.app/) |
-| **20** | [**MK Fitness God**](https://mkfitnessgod.vercel.app/) — Fitness tracking application with workout logging, progress visualization, and training routines | `React` · `JavaScript` · `Vite` | [**Open App**](https://mkfitnessgod.vercel.app/) |
-| **21** | [**Jack Portfolio One**](https://jack-portfolio-one.vercel.app/) — First-generation portfolio site with clean grid showcase and project cards | `HTML5` · `CSS3` · `JavaScript` | [**View Site**](https://jack-portfolio-one.vercel.app/) |
+| # | Project | Target Platforms | Tech Stack | Link |
+| :---: | :--- | :---: | :--- | :---: |
+| **17** | [**Grand MK Nexus**](https://grand-mk-nexus.vercel.app/) — Central portal connecting all MK web projects with animated navigation and unified identity | `All Platforms` | `TypeScript` · `React` · `Vite` | [**Open Hub**](https://grand-mk-nexus.vercel.app/) |
+| **18** | [**MK Portfolio v2 — Code Cultivator**](https://mk-portfolio-v2-code-cultivator.vercel.app/) — Second-generation portfolio with botanical growth metaphor and interactive project showcase | `Web` · `Mobile` | `React` · `TypeScript` · `Tailwind` | [**View Site**](https://mk-portfolio-v2-code-cultivator.vercel.app/) |
+| **19** | [**Khmer Map by MK**](https://khmer-map-by-mk.vercel.app/) — Interactive geographical map of Cambodia with province boundaries, cultural data, and Khmer typography | `Web` · `Mobile` | `Leaflet` · `GeoJSON` · `JavaScript` | [**Explore Map**](https://khmer-map-by-mk.vercel.app/) |
+| **20** | [**MK Fitness God**](https://mkfitnessgod.vercel.app/) — Fitness tracking application with workout logging, progress visualization, and training routines | `Web` · `Mobile PWA` | `React` · `JavaScript` · `Vite` | [**Open App**](https://mkfitnessgod.vercel.app/) |
+| **21** | [**Jack Portfolio One**](https://jack-portfolio-one.vercel.app/) — First-generation portfolio site with clean grid showcase and project cards | `Web` | `HTML5` · `CSS3` · `JavaScript` | [**View Site**](https://jack-portfolio-one.vercel.app/) |
 
 <br/>
 
@@ -209,7 +251,7 @@ The complete catalog of web applications, games, tools, and platforms I have bui
 
 ## 🤝 Open for Collaboration
 
-I am open to collaborating on **3D web experiences**, **mobile applications**, **game development**, and **full-stack platforms**. If you have an idea, want to build something together, or need a developer with a proven track record of built projects:
+I am open to collaborating on **iOS & Android mobile apps**, **Windows & macOS software**, **3D web experiences**, and **full-stack platforms**. If you have an idea, want to build something together, or need a developer with a proven track record across all major platforms:
 
 <div align="center">
 
