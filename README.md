@@ -282,7 +282,7 @@ The complete catalog of web applications, mobile apps, games, tools, and platfor
 | **10** | [**Daily Income Organizer**](https://mk-website-five.vercel.app/daily-income-organizer.html) — Personal finance tracker with daily earnings logging, category breakdown, and metrics | `Web` · `Mobile` | `HTML5` · `CSS3` · `JavaScript` | [**Open**](https://mk-website-five.vercel.app/daily-income-organizer.html) |
 | **11** | [**Anonymous Chat**](https://anonymouse-chat-1.onrender.com/) — Real-time anonymous messaging platform featuring WebSocket channels and ephemeral chat rooms | `Web` · `Mobile Web` | `Node.js` · `Socket.io` · `TypeScript` | [**Open**](https://anonymouse-chat-1.onrender.com/) |
 | **12** | [**MK Schedule**](https://mk-schedule.vercel.app/) — Personal scheduling and calendar management system with visual time-block organization | `Web` · `Mobile` | `React` · `TypeScript` · `Vite` | [**Open**](https://mk-schedule.vercel.app/) |
-| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Web-based cost estimator and budget calculator with categorized breakdowns and export support | `Web` · `Desktop` | `React` · `JavaScript` · `Vite` | [**Open**](https://costwebby-mk.vercel.app/) |
+| **13** | [**CostWebby**](https://costwebby-mk.vercel.app/) — Project small university web for testing | `Web` · `Desktop` | `React` · `JavaScript` · `Vite` | [**Open**](https://costwebby-mk.vercel.app/) |
 
 ### 🤖 AI, Bots & Computer Vision
 
