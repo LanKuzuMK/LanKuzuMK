@@ -28,7 +28,7 @@
     <a href="#full-technical-arsenal">Tech Stack</a> ·
     <a href="#activity--statistics">Analytics</a> ·
     <a href="#featured-flagships">Flagships</a> ·
-    <a href="#built-projects--master-index-21-projects">Projects</a> ·
+    <a href="#built-projects--master-index-22-projects">Projects</a> ·
     <a href="#open-for-collaboration">Contact</a>
   </sub>
 </div>
@@ -257,10 +257,10 @@ flowchart LR
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- FULL PROJECT CATALOG (ALL 21 LINKS STANDARDIZED TO "OPEN") -->
+<!-- FULL PROJECT CATALOG (ALL 22 LINKS STANDARDIZED TO "OPEN") -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🏛️ Built Projects — Master Index (21 Projects)
+## 🏛️ Built Projects — Master Index (22 Projects)
 
 The complete catalog of web applications, mobile apps, games, tools, and platforms I have built and deployed:
 
@@ -301,6 +301,7 @@ The complete catalog of web applications, mobile apps, games, tools, and platfor
 | **19** | [**Khmer Map by MK**](https://khmer-map-by-mk.vercel.app/) — Interactive geographical map of Cambodia with province boundaries, cultural data, and Khmer typography | `Web` · `Mobile` | `Leaflet` · `GeoJSON` · `JavaScript` | [**Open**](https://khmer-map-by-mk.vercel.app/) |
 | **20** | [**MK Fitness God**](https://mkfitnessgod.vercel.app/) — Fitness tracking application with workout logging, progress visualization, and training routines | `Web` · `Mobile PWA` | `React` · `JavaScript` · `Vite` | [**Open**](https://mkfitnessgod.vercel.app/) |
 | **21** | [**Jack Portfolio One**](https://jack-portfolio-one.vercel.app/) — First-generation portfolio site with clean grid showcase and project cards | `Web` | `HTML5` · `CSS3` · `JavaScript` | [**Open**](https://jack-portfolio-one.vercel.app/) |
+| **22** | [**Surreal Universe**](https://surreal-universe-portfolio.vercel.app/) — 3D creative technologist & graphic design portfolio with surrealist cosmos visuals, interactive audio & motion | `Web` · `3D WebGL` | `React` · `Three.js` · `Tailwind` · `Vite` | [**Open**](https://surreal-universe-portfolio.vercel.app/) |
 
 <br/>
 
