@@ -10,7 +10,7 @@
 <a href="https://github.com/LanKuzuMK" target="_blank"><img src="https://img.shields.io/badge/GitHub-LanKuzuMK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="https://lankuzumk.github.io/mk-vault/" target="_blank"><img src="https://img.shields.io/badge/MK_Vault-Archive-C9A24B?style=for-the-badge&logo=databricks&logoColor=white" alt="MK Vault" /></a>&nbsp;
 <a href="https://youtube.com/@jackmp3fx?si=19gciCczBXxYfRwn" target="_blank"><img src="https://img.shields.io/badge/YouTube-@jackmp3fx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
-<a href="https://www.facebook.com/share/165PRpanWb/" target="_blank"><img src="https://img.shields.io/badge/Facebook-MK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.facebook.com/me" target="_blank"><img src="https://img.shields.io/badge/Facebook-MK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <br/><br/>
 
